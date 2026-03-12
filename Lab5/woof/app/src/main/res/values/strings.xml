@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Koda</string>
+    <string name="years_old">%d years old</string>
+
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_5">Pheter</string>
+    <string name="dog_name_6">Linda</string>
+    <string name="dog_name_7">Mosa</string>
+    <string name="dog_name_8">Benbi</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_9">Nicky</string>
+</resources>
